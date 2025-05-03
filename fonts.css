@@ -1,0 +1,44 @@
+@font-face {
+    font-family: 'Gogol';
+    src: url("fonts/gogol_regular.woff") format("woff"),
+         url("fonts/gogol_regular.woff2") format("woff2");
+    font-weight: normal;
+}
+@font-face {
+    font-family: 'Nunito';
+    src: url("fonts/Nunito.woff") format("woff"),
+         url("fonts/Nunito.woff2") format("woff2");
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: 'Chulok';
+    src: url("fonts/rozoviichulok_regular.woff") format("woff"),
+         url("fonts/rozoviichulok_regular.woff2") format("woff2");
+    font-weight: normal;
+}
+@font-face {
+    font-family: 'Pecita';
+    src: url("fonts/Pecita.woff") format("woff"),
+         url("fonts/Pecita.woff2") format("woff2");
+    font-weight: normal;
+}
+.header_text {
+    font-family: 'Pecita';
+    color:#000000;
+    font-size: 5.25vw;
+}
+.audio_text {
+    font-family: 'Nunito';
+    color:#000000;
+    font-size: 1.25vw
+}
+@media screen and (min-width: 321px) and (max-width: 815px) {
+    .header_text {
+        font-size: 8.25vw;
+    }
+    .audio_text {
+        font-size: 4vw
+    }
+    
+}

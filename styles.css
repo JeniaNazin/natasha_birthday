@@ -1,0 +1,369 @@
+* {
+
+    margin-left: auto;
+    margin-right: auto;
+}
+body {
+    background:  no-repeat url("images/pollynor_bg.png");
+    background-color: rgb(241, 160, 139);
+    background-position: 630px 145px;
+    margin: 0 auto;
+    height: fit-content;
+}
+.header_text {
+    text-align: left;
+}
+.music {
+    position: relative;
+    display: grid;
+    grid-template-columns: 10vw 30vw;
+    align-items: center;
+    width: 40%;
+    height: 60px;
+    margin-left: 1vw;
+}
+.pyegirl_image {
+    width: 100%;
+    height: 100%;
+    background-image: url(images/pyegirl.png);
+    background-position: center;
+    background-size: cover;
+}
+.rolling_image {
+    width: 100%;
+    height: 100%;
+    background-image: url(images/rolling.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.prosti_image {
+    width: 100%;
+    height: 100%;
+    background-image: url(images/prosti.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.Breezeblocks_image {
+    width: 100%;
+    height: 100%;
+    background-image: url(images/breazeblocks.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.noexit_image {
+    width: 100%;
+    height: 100%;
+    background-image: url(images/noexit.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.church_image {
+    width: 100%;
+    height: 100%;
+    background-image: url(images/church.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.provance_image {
+    width: 100%;
+    height: 100%;
+    background-image: url(images/provance.png);
+    background-position: center;
+    background-size: cover;
+}
+.believer_image {
+    width: 100%;
+    height: 100%;
+    background-image: url(images/believer.png);
+    background-position: center;
+    background-size: cover;
+}
+.champ_image {
+    width: 100%;
+    height: 100%;
+    background-image: url(images/champ.png);
+    background-position: center;
+    background-size: cover;}
+.sadness_image {
+    width: 100%;
+    height: 100%;
+    background-image: url(images/sadness.png);
+    background-position: center;
+    background-size: cover;
+}
+.missu_image {
+    width: 100%;
+    height: 100%;
+    background-image: url(images/missu.png);
+    background-position: center;
+    background-size: cover;
+}
+.likegod_image {
+    width: 100%;
+    height: 100%;
+    background-image: url(images/likegod.png);
+    background-position: center;
+    background-size: cover;
+}
+.cuckoo_image {
+    width: 100%;
+    height: 100%;
+    background-image: url(images/cuckoo.png);
+    background-position: center;
+    background-size: cover;
+}
+.anothlove_image {
+    width: 100%;
+    height: 100%;
+    background-image: url(images/anothlove.png);
+    background-position: center;
+    background-size: cover;
+}
+.dearmen_image {
+    width: 100%;
+    height: 100%;
+    background-image: url(images/dearperson.png);
+    background-position: center;
+    background-size: cover;
+}
+.sweater_image {
+    width: 100%;
+    height: 100%;
+    background-image: url(images/sweater.png);
+    background-position: center;
+    background-size: cover;
+}
+.ruchey_image {
+    width: 100%;
+    height: 100%;
+    background-image: url(images/ruchey.png);
+    background-position: center;
+    background-size: cover;
+}
+.stressed_image {
+    width: 100%;
+    height: 100%;
+    background-image: url(images/stressed.png);
+    background-position: center;
+    background-size: cover;
+}
+.otpusk_image {
+    width: 100%;
+    height: 100%;
+    background-image: url(images/otpusk.png);
+    background-position: center;
+    background-size: cover;
+}
+.vaxta_image {
+    width: 100%;
+    height: 100%;
+    background-image: url(images/vaxta.png);
+    background-position: center;
+    background-size: cover;
+}
+.dom_image {
+    width: 100%;
+    height: 100%;
+    background-image: url(images/dom.png);
+    background-position: center;
+    background-size: cover;
+}
+.grecha_image {
+    width: 100%;
+    height: 100%;
+    background-image: url(images/grecha.png);
+    background-position: center;
+    background-size: cover;
+}
+.otebe_image {
+    width: 100%;
+    height: 100%;
+    background-image: url(images/otebe.png);
+    background-position: center;
+    background-size: cover;
+}
+.dovstrechi_image {
+    width: 100%;
+    height: 100%;
+    background-image: url(images/dovstrechi.png);
+    background-position: center;
+    background-size: cover;
+}
+.koffee_image {
+    width: 100%;
+    height: 100%;
+    background-image: url(images/koffee.png);
+    background-position: center;
+    background-size: cover;
+}
+.credo_image {
+    width: 100%;
+    height: 100%;
+    background-image: url(images/credo.png);
+    background-position: center;
+    background-size: cover;
+}
+.kukla_image {
+    width: 100%;
+    height: 100%;
+    background-image: url(images/kukla.png);
+    background-position: center;
+    background-size: cover;
+}
+.cometomydom_image {
+    width: 100%;
+    height: 100%;
+    background-image: url(images/cometomydom.png);
+    background-position: center;
+    background-size: cover;
+}
+.alla_image {
+    width: 100%;
+    height: 100%;
+    background-image: url(images/alla.png);
+    background-position: center;
+    background-size: cover;
+}
+.horse_image {
+    width: 100%;
+    height: 100%;
+    background-image: url(images/horse.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.winter_image {
+    width: 100%;
+    height: 100%;
+    background-image: url(images/winter.png);
+    background-position: center;
+    background-size: cover;
+}
+.sansara_image {
+    width: 100%;
+    height: 100%;
+    background-image: url(images/sansara.png);
+    background-position: center;
+    background-size: cover;
+}
+.battery_image {
+    width: 100%;
+    height: 100%;
+    background-image: url(images/battery.png);
+    background-position: center;
+    background-size: cover;
+}
+.myrock_image {
+    width: 100%;
+    height: 100%;
+    background-image: url(images/myrock.png);
+    background-position: center;
+    background-size: cover;
+}
+.stayin_image {
+    width: 100%;
+    height: 100%;
+    background-image: url(images/stayin.png);
+    background-position: center;
+    background-size: cover;
+}
+.ddt_image {
+    width: 100%;
+    height: 100%;
+    background-image: url(images/ddt.png);
+    background-position: center;
+    background-size: cover;
+}
+.bolno_image {
+    width: 100%;
+    height: 100%;
+    background-image: url(images/bolno.png);
+    background-position: center;
+    background-size: cover;
+}
+.youknow_image {
+    width: 100%;
+    height: 100%;
+    background-image: url(images/youknow.png);
+    background-position: center;
+    background-size: cover;
+}
+.war_image {
+    width: 100%;
+    height: 100%;
+    background-image: url(images/war.png);
+    background-position: center;
+    background-size: cover;
+}
+.venok_image {
+    width: 100%;
+    height: 100%;
+    background-image: url(images/venok.png);
+    background-position: center;
+    background-size: cover;
+}
+.drama_image {
+    width: 100%;
+    height: 100%;
+    background-image: url(images/drama.png);
+    background-position: center;
+    background-size: cover;
+}
+.solnce_image {
+    width: 100%;
+    height: 100%;
+    background-image: url(images/solnce.png);
+    background-position: center;
+    background-size: cover;
+}
+.audio_mp3 {
+    margin: 0;
+}
+.audio_text {
+    margin-left: 1vw;
+    margin-right: 1vw;
+    margin-top: 0.5vw;
+    margin-bottom: 0.5vw;
+}
+summary {
+    width: 30vw;
+    height: max-content;
+    background-color: rgba(241, 243, 244, 0.763);
+    margin-left: 0;
+}
+details {
+    width: 30vw;
+    background-color: rgba(241, 243, 244, 0.763);
+    margin-left: 0;
+    border-radius: 0.5vw;
+    text-align: center;
+}
+@media screen and (min-width: 321px) and (max-width: 815px) {
+    body {
+        background: no-repeat url("images/pollynor_bg2.png");
+        background-color: rgb(241, 160, 139);
+        background-position-y: 12vw;
+        margin: 0 auto;
+        height: fit-content;
+        background-size: contain;
+    }
+    .header {
+        margin-bottom: 60vw;
+    }
+    .music {
+        grid-template-columns: 20vw 78vw;
+        align-content: center;
+    }
+    summary {
+        width: 90vw;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    details {
+        width: 90vw;
+        background-color: rgba(241, 243, 244, 0.763);
+        margin-left: auto;
+        margin-right: auto;
+        border-radius: 0.5vw;
+        text-align: center;
+    }
+}
