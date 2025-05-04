@@ -98,13 +98,6 @@ body {
     background-position: center;
     background-size: cover;
 }
-.likegod_image {
-    width: 100%;
-    height: 100%;
-    background-image: url(images/likegod.png);
-    background-position: center;
-    background-size: cover;
-}
 .cuckoo_image {
     width: 100%;
     height: 100%;
@@ -305,6 +298,34 @@ body {
     width: 100%;
     height: 100%;
     background-image: url(images/drama.png);
+    background-position: center;
+    background-size: cover;
+}
+.bezboya_image {
+    width: 100%;
+    height: 100%;
+    background-image: url(images/bezboya.png);
+    background-position: center;
+    background-size: cover;
+}
+.pretend_image {
+    width: 100%;
+    height: 100%;
+    background-image: url(images/pretend.png);
+    background-position: center;
+    background-size: cover;
+}
+.maybye_image {
+    width: 100%;
+    height: 100%;
+    background-image: url(images/maybye.png);
+    background-position: center;
+    background-size: cover;
+}
+.safesex_image {
+    width: 100%;
+    height: 100%;
+    background-image: url(images/safesex.png);
     background-position: center;
     background-size: cover;
 }
