@@ -322,6 +322,13 @@ body {
     background-position: center;
     background-size: cover;
 }
+.wine_image {
+    width: 100%;
+    height: 100%;
+    background-image: url(images/winecigars.png);
+    background-position: center;
+    background-size: cover;
+}
 .safesex_image {
     width: 100%;
     height: 100%;
